@@ -1,0 +1,24 @@
+ ___________________________________________________________________________________________
+|   											    |
+|  Cara dan Aturan Bermain :                                                                |
+|											    |
+|  1. Pemain diharapkan mengisi nickname dengan panjang maximal 10 karakter                 |
+|											    |
+|  2. Pada saat bermain diharapkan memilih sesuai yang ditentukan misalnya S/O,             |
+|     lalu memilih baris dan kolom dengan 1 angka saja                                      |
+|                                                                                           |
+|  3. Input petak harus sesuai dan tidak diperkenankan untuk memilih petak yang             |
+|     sudah diisi sebelumnya                                                                |
+|                                                                                           |
+|  4. Setiap player akan diberikan turn tambahan apabila berhasil membentuk pola SOS        |
+|                                                                                           |
+|  5. Setiap player hanya diberikan waktu 10 detik untuk memilih pilihannya                 | 
+|     (memilih S/O dan juga petak yang akan diisi)                                          |
+|                                                                                           |
+|  6. Jika player melebihi batas waktu maka player akan kehilangan gilirannya               |
+|                                                                                           |
+|  7. Player yang dikatakan menang adalah pemain yang mempunyai skor paling tinggi          |
+|                                                                                           |
+|  8. Jika keadaan skor imbang maka permainan akan dinyatakan draw                          |
+|                                                                                           |
+|___________________________________________________________________________________________|
